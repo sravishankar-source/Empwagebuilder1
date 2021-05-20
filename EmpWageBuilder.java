@@ -1,4 +1,4 @@
-package EmpWageBuilder;
+ EmpWageBuilder;
 
 public class EmpWageBuilder {
 
